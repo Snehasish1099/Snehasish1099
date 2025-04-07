@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Snehasish1099/Snehasish1099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

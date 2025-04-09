@@ -62,13 +62,9 @@ Here are some ideas to get you started:
 
 ---
 
-### 📈 GitHub Stats
+### 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Snehasish1099&show_icons=true&theme=tokyonight" alt="Snehasish's GitHub stats"/>
-  <br />
-  <img src="https://streak-stats.demolab.com?user=Snehasish1099&theme=tokyonight&hide_border=false" />
-  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snehasish1099&layout=compact&theme=tokyonight" />
 </p>
 

@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ### 🧑‍💻 About Me
 
-- 🌱 2 year+ experience in **HTML, CSS, JS**, and passionate about **React.js** & **Next.js**
+- 🌱 2 years+ experience in **HTML, CSS, JS**, and passionate about **React.js** & **Next.js**
 - 🧠 Skilled in **Python, Django**, and now diving deep into **Node.js, Express, MongoDB**
 - 🛠 Building scalable, data-driven, full-stack web apps with solid UX
 - 💡 Problem-solver with strong knowledge of modern web development stacks

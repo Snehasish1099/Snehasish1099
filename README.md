@@ -1,15 +1,24 @@
 <!--
 **Snehasish1099/Snehasish1099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 -->
 
-<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+I'm+Snehasish+Mondal!;Creative+Web+Developer;Lover+of+Clean+Code+%26+UI%2FUX;Full-Stack+Engineer+%7C+Open+Source+Fan" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=61DAFB&width=435&lines=Hi+I'm+Snehasish+Mondal;Creative+Web+Developer;Lover+of+Clean+Code+%26+UI/UX" />
 </p>
 
 <h3 align="center">Creative Web Developer | Python Enthusiast | Scalable Web App Builder</h3>
 
-<!-- Social Links -->
 <p align="center">
   <a href="https://www.linkedin.com/in/snehasish-mondal-aa5973223/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
@@ -32,7 +41,7 @@
 
 ### 🛠 Tech Stack
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -46,28 +55,18 @@
 
 ---
 
-### 🔥 GitHub Stats
+### 🔥 GitHub Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Snehasish1099&theme=tokyonight_duo&hide_border=true" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=Snehasish1099&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Snehasish1099&theme=tokyonight&hide_border=true" alt="GitHub streak stats"/>
 </p>
 
 ---
 
-### 📈 Contribution Graph
+### 📈 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Snehasish1099&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-### 📊 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snehasish1099&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Snehasish1099&theme=tokyo-night&hide_border=true" alt="Snehasish's GitHub activity graph" />
 </p>
 
 ---
@@ -83,6 +82,14 @@
 
 ---
 
+### 📊 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snehasish1099&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
 ### 🏆 Achievements
 
 - 🥇 5⭐ in C++ and SQL on [HackerRank](https://www.hackerrank.com/profile/snehasishmondal2)
@@ -90,6 +97,12 @@
 - 📜 Certified in:
   - Python for Data Science – IBM
   - JavaScript & Problem Solving – HackerRank
+
+---
+
+### 📖 Quote
+
+> "The best way to predict the future is to invent it." – Alan Kay
 
 ---
 
@@ -103,9 +116,4 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Snehasish1099&label=Profile%20views&color=blue&style=flat" alt="Snehasish Mondal" />
-</p>
-
-<!-- Footer Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>

@@ -17,7 +17,6 @@ Here are some ideas to get you started:
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=61DAFB&width=435&lines=Hi+I'm+Snehasish+Mondal;Creative+Web+Developer;Lover+of+Clean+Code+%26+UI/UX" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Snehasish Mondal</h1>
 <h3 align="center">Creative Web Developer | Python Enthusiast | Scalable Web App Builder</h3>
 
 <p align="center">

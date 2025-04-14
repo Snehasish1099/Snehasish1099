@@ -12,6 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=61DAFB&width=435&lines=Hi+I'm+Snehasish+Mondal;Creative+Web+Developer;Lover+of+Clean+Code+%26+UI/UX" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Snehasish Mondal</h1>
 <h3 align="center">Creative Web Developer | Python Enthusiast | Scalable Web App Builder</h3>
 
@@ -56,7 +61,6 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Snehasish1099&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snehasish1099&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---

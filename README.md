@@ -49,6 +49,19 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
+
+---
+
+### 🚀 Github Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Snehasish1099&theme=tokyonight&hide_border=true" alt="Snehasish's streak stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Snehasish1099&theme=tokyo-night&hide_border=true" alt="GitHub activity graph"/>
+</p>
+
 ---
 
 ### 🚀 Featured Projects

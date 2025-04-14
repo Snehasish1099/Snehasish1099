@@ -51,14 +51,16 @@ Here are some ideas to get you started:
 
 ---
 
-### 🚀 Github Stats
-
 <!-- GitHub Streak Stats -->
+### 🔥 GitHub Streak Stats
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=Snehasish1099&theme=tokyonight&hide_border=true" alt="Snehasish's GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Snehasish1099&theme=tokyonight&hide_border=true" alt="Snehasish's GitHub streak" />
 </p>
 
-<!-- GitHub Contribution Graph -->
+
+### 📈 GitHub Activity Graph
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Snehasish1099&theme=tokyo-night&hide_border=true" alt="Snehasish's GitHub activity graph" />
 </p>

@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 ### 🔥 GitHub Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Snehasish1099&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Snehasish1099&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
 </p>
 
 ---

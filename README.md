@@ -55,9 +55,10 @@ Here are some ideas to get you started:
 ### 🔥 GitHub Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Snehasish1099&theme=tokyonight&hide_border=true" alt="Snehasish's GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=Snehasish1099&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
 </p>
 
+---
 
 ### 📈 GitHub Activity Graph
 

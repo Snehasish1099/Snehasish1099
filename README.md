@@ -58,7 +58,8 @@ Here are some ideas to get you started:
 ### 🔥 GitHub Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Snehasish1099&theme=tokyonight&hide_border=true" alt="GitHub streak stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Snehasish1099&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snehasish1099&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -82,14 +83,6 @@ Here are some ideas to get you started:
 
 ---
 
-### 📊 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snehasish1099&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ### 🏆 Achievements
 
 - 🥇 5⭐ in C++ and SQL on [HackerRank](https://www.hackerrank.com/profile/snehasishmondal2)
@@ -98,11 +91,6 @@ Here are some ideas to get you started:
   - Python for Data Science – IBM
   - JavaScript & Problem Solving – HackerRank
 
----
-
-### 📖 Quote
-
-> "The best way to predict the future is to invent it." – Alan Kay
 
 ---
 
